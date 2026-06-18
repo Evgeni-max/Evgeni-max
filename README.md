@@ -30,4 +30,3 @@ Part of my work — **deep generative models (GANs, diffusion, flow matching, sc
 - 📧 Email: euforprog@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/evgeni-martynkevich-b9a290294/)
 - ✈️ [Telegram](https://t.me/evgenchk)
-- 🐙 GitHub: [Evgeni-max](https://github.com/Evgeni-max)
